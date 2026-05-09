@@ -48,25 +48,3 @@
 
 ---
 
-### 📸 Screenshots
-
-![CSAT Distribution](charts/01_csat_distribution.png)
-![CSAT by Category](charts/02_csat_by_category.png)
-![Interactive Predictor](charts/10_sunburst_category_channel.png)
-
----
-
-### 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/DeepCSAT-Ecommerce-CSAT-Prediction.git
-
-# 2. Go to project folder
-cd DeepCSAT-Ecommerce-CSAT-Prediction
-
-# 3. Activate virtual environment
-.\venv\Scripts\Activate.ps1
-
-# 4. Run the Streamlit App
-python -m streamlit run app.py
